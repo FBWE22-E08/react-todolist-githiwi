@@ -1,0 +1,25 @@
+.App {
+  font-size: large;
+  margin: 30px;
+  /* width: 900px;
+  height: 600px; */
+  border: 3px solid black;
+  margin: auto;
+  justify-content: center;
+  padding: 10px;
+}
+
+label {
+  background-color: gray;
+}
+.App button {
+  background-color: blue;
+}
+.App input {
+  width: 80%;
+}
+.App input,
+button,
+label {
+  padding: 15px;
+}
